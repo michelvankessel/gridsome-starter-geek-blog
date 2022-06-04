@@ -240,7 +240,7 @@ export default {
 
   computed: {
     getThumbnailImage() {
-      let thumbnailImage = `${this.getBaseUrl}/default-thumb.png`
+      let thumbnailImage = `${this.getBaseUrl}/blackchain.png`
       const cover = this.$page.post.thumbnail
       if (cover != null) {
         thumbnailImage = `${this.getBaseUrl}${this.$page.post.thumbnail.src}`

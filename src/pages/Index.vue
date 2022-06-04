@@ -99,7 +99,7 @@ export default {
         },
         {
           name: 'twitter:image',
-          content: `${process.env.GRIDSOME_BASE_URL}/images/default-thumb.png`,
+          content: `${process.env.GRIDSOME_BASE_URL}/images/blackchain.png`,
         },
         {
           name: 'twitter:creator',
@@ -117,11 +117,11 @@ export default {
         },
         {
           property: 'og:image',
-          content: `${process.env.GRIDSOME_BASE_URL}/images/default-thumb.png`,
+          content: `${process.env.GRIDSOME_BASE_URL}/images/blackchain.png`,
         },
         {
           property: 'og:image:secure_url',
-          content: `${process.env.GRIDSOME_BASE_URL}/images/default-thumb.png`,
+          content: `${process.env.GRIDSOME_BASE_URL}/images/blackchain.png`,
         },
       ],
     }

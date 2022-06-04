@@ -16,7 +16,7 @@
         :src="
           post.node.thumbnail
             ? post.node.thumbnail.src
-            : '/images/default-thumb.png'
+            : '/images/blackchain.png'
         "
         alt="post.node.title"
       />

@@ -23,7 +23,7 @@
             dark:hover:bg-gray-600
           "
           :src="
-            post.thumbnail ? post.thumbnail.src : '/images/default-thumb.png'
+            post.thumbnail ? post.thumbnail.src : '/images/blackchain.png'
           "
         />
       </g-link>

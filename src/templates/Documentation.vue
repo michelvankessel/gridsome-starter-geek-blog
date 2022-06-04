@@ -76,7 +76,7 @@ export default {
         },
         {
           name: 'twitter:image',
-          content: `${this.getBaseUrl}/default-thumb.png`,
+          content: `${this.getBaseUrl}/blackchain.png`,
         },
         {
           name: 'twitter:creator',
@@ -94,11 +94,11 @@ export default {
         },
         {
           property: 'og:image',
-          content: `${this.getBaseUrl}/default-thumb.png`,
+          content: `${this.getBaseUrl}/blackchain.png`,
         },
         {
           property: 'og:image:secure_url',
-          content: `${this.getBaseUrl}/default-thumb.png`,
+          content: `${this.getBaseUrl}/blackchain.png`,
         },
       ],
     }
